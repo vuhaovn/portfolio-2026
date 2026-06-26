@@ -113,7 +113,7 @@ const enData: CVData = {
     { label: 'Tools', items: ['Git', 'Gulp', 'Storybook', 'Figma'] },
     {
       label: 'Backend (Self-studied)',
-      items: ['NodeJS (Express/Nest)', 'PHP MVC', 'Java Core', 'Java Spring Boot 3', 'MySQL', 'PostgreSQL', 'MongoDB'],
+      items: ['NodeJS (Express/Nest)', 'PHP MVC', 'Java Core', 'MySQL', 'PostgreSQL', 'MongoDB'],
     },
     { label: 'Cloud & Others', items: ['AWS', 'Azure', 'Guacamole API'] },
   ],
@@ -271,7 +271,7 @@ const jpData: CVData = {
     { label: 'ツール', items: ['Git', 'Gulp', 'Storybook', 'Figma'] },
     {
       label: 'Backend（独学）',
-      items: ['NodeJS (Express/Nest)', 'PHP MVC', 'Java Core', 'Java Spring Boot 3', 'MySQL', 'PostgreSQL', 'MongoDB'],
+      items: ['NodeJS (Express/Nest)', 'PHP MVC', 'Java Core', 'MySQL', 'PostgreSQL', 'MongoDB'],
     },
     { label: 'Cloud & その他', items: ['AWS', 'Azure', 'Guacamole API'] },
   ],
